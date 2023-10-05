@@ -1,2 +1,2 @@
 # AML-credit-risk
-classification is a fundamental technique used in fraud detection and credit risk assessment. 
+classification is a fundamental technique used in fraud detection and credit risk assessment. Logistic Regression and Random Forest are two popular models, each with its strengths. Logistic Regression is interpretable and well-suited for linear relationships, while Random Forest is more flexible and can capture complex patterns. The choice between them depends on the specific characteristics of the data and the problem at hand.¶
